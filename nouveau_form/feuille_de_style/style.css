@@ -1,0 +1,86 @@
+body{
+    margin: 0 auto;
+
+}
+
+form{
+background-color: rgb(193, 251, 253);
+border: solid blue;
+position: relative;
+margin-top: 50px;
+left: 300px;
+width: 600px;
+height: 600px;
+padding: 25px;
+
+}
+
+h1{
+    position: relative;
+    bottom: 20px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+}
+
+input{
+    position: relative;
+    left: 50px;
+    height: 35px;
+    width: 200px;
+}
+
+.inp5{
+    position: relative;
+    left: 185px;
+    height: 35px;
+    width: 200px;
+}
+
+.inp4{
+    position: relative;
+    left: 235px;
+    height: 35px;
+    width: 200px;
+}
+
+
+.inp3{
+    position: relative;
+    left: 215px;
+    height: 35px;
+    width: 200px;
+}
+
+.inp2{
+    position: relative;
+    left: 250px;
+    height: 35px;
+    width: 200px;
+}
+
+select{
+    position: relative;
+    left: 170px;
+    width: 200px;
+    height: 35px;
+}
+
+button{
+    width: 100px;
+    height: 35px;
+    position: relative;
+    top: 50px;
+}
+
+p{
+    position: relative;
+    left: 250px;
+}
+
+
+.error { 
+    color : #FF0000 ;
+ }

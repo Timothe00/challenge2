@@ -1,0 +1,51 @@
+body{
+    margin: 0 auto;
+}
+
+.marge-gauche{
+    position: relative;
+    right: 10px;
+    height: 120px;
+    
+}
+
+
+.marge-droite{
+    position: relative;
+    left: 10px;
+}
+
+
+
+.bgr{
+    background-color: #222d32;
+    height: 650px;
+}
+
+.longueur{
+  position: relative;
+  top: 50px;
+
+}
+
+
+footer{
+	display: flex;
+    background-color: #a9bec8;
+	justify-content: space-between;
+	align-items: center;
+	font-weight: 600;
+    height: 100px;
+    position: relative;
+    top: 100px;
+}
+
+ footer a.cgv{
+ 	text-decoration: none;
+ 	color: black;
+     font-size: 35px;
+ }
+
+ .copyright{
+     font-size: 35px;
+ }
